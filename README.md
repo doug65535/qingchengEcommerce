@@ -1,4 +1,9 @@
-# qingchengEcommerce  apache dubbo +ssm mybatis vue.js elementui  rabbitmq spring security
+# qingchengEcommerce  
+#apache dubbo +ssm 
+#mybatis 
+#vue.js elementui  
+#rabbitmq 
+#spring security
  
 functionality  ![image](https://user-images.githubusercontent.com/53531905/136624917-6412cbf8-d062-4952-9736-73e5e8e35a7c.png)
 
